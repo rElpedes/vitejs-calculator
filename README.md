@@ -2,4 +2,4 @@
 
 #### Simple reactjs/vitejs Calculator
 
-###### vitejs build first attempt
+###### vitejs builder practice
