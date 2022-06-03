@@ -2,4 +2,4 @@
 
 #### Simple reactjs/vitejs Calculator
 
-###### vitejs builder practice
+###### ViteJS "roll-up" build instead of webpack building
